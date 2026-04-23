@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+ultralytics
+opencv-python
+rich
+torch==2.10.0
+torchvision==0.25.0
